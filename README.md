@@ -1,8 +1,8 @@
-# ParseVissimOutput_Fzp_Rsr
-# developed by Wenfu Wang, 2018
-# 2 functions parseFzp and parseRsr included
+**ParseVissimOutput_Fzp_Rsr.py**
+
+**2 functions _parseFzp_ and _parseRsr_ included**
 ###
-parseFzp(fileNames, curDate)
+*parseFzp(fileNames, currentDate)*
 
 A python function for parsing PTV VISSIM vehicle trajectory outputs.
 The main purpose of using this function is as follows:
@@ -13,7 +13,7 @@ The main purpose of using this function is as follows:
 4. save the outputs into .csv file for further aggregation or analysis
 
 ###
-parseRsr(fileNames, curDate)
+*parseRsr(fileNames, currentDate)*
 
 A python function for parsing raw PTV VISSIM vehicle travel time outputs.
 The main purpose of using this script is as follows:
