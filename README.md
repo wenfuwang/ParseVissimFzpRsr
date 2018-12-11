@@ -20,6 +20,6 @@ The main purpose of using this script is as follows:
 
 1. remove the commentary content from the beginning of rsr file.
 2. Add proper headers including the time instant each vehicle reaching the upstream and downstream boundary.
-
+3. Save the outputs into .csv file for further aggregation or analysis
 ###
 The main functions reads all the fzp and rsr file in the current directory.
